@@ -1,2 +1,2 @@
 # trimof_image
-Images for [trimof](github.com/yorkitokang/trimof)
+Images for [trimof](https://github.com/yorkitokang/trimof)
